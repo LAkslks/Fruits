@@ -1,0 +1,54 @@
+[{
+    "fruit": "Apple",
+    "size": "small",
+    "color": "red"
+},
+
+{
+    "fruit": "Banana",
+    "size": "medium",
+    "color": "yellow"
+},
+
+{
+    "fruit": "Melon",
+    "size": "Large",
+    "color": "yellow"
+},
+
+{
+    "fruit": "Peach",
+    "size": "small",
+    "color": "beige"
+},
+{
+    "fruit": "orange",
+    "size": "medium",
+    "color": "orange"
+},
+{
+    "fruit": "kiwi",
+    "size": "small",
+    "color": "green"
+},
+{
+    "fruit": "lemon",
+    "size": "small",
+    "color": "yellow"
+},
+{
+    "fruit": "lime",
+    "size": "small",
+    "color": "green"
+},
+{
+    "fruit": "watermelon",
+    "size": "big",
+    "color": "green"
+},
+
+{
+    "fruit": "Mango",
+    "size": "small",
+    "color": "green"
+}]
